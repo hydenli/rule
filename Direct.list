@@ -341,6 +341,12 @@ DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
 
+# Public
+DOMAIN-SUFFIX,cloudflarestorage.com
+DOMAIN-SUFFIX,oaifree.com
+DOMAIN-SUFFIX,hf-mirror 
+DOMAIN-SUFFIX,cloudns.net
+DOMAIN-KEYWORD,kaspersky
 
 
 # AccelerateDirectSites
