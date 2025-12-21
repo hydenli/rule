@@ -1,0 +1,4 @@
+# 代理1列表
+
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,cloudflare.com
