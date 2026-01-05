@@ -6,3 +6,7 @@ DOMAIN-SUFFIX,cloudflare.com
 #DOMAIN,guzzoni.apple.com
 #DOMAIN,guzzoni.smoot.apple.com
 #DOMAIN-KEYWORD,guzzoni
+
+DOMAIN,probe.icloud.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,mask-api.icloud.com
