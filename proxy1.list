@@ -2,3 +2,7 @@
 
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,cloudflare.com
+
+DOMAIN,guzzoni.apple.com
+DOMAIN,guzzoni.smoot.apple.com
+DOMAIN-KEYWORD,guzzoni
