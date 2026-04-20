@@ -25,5 +25,7 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,siftscience.com
+DOMAIN-SUFFIX,segment.io
+
 
 DOMAIN-SUFFIX,challenges.cloudflare.com
