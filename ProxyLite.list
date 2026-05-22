@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,1e100
 # 附加
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,tailscale.com
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
