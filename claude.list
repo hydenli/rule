@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,claudemcpcontent.com
 
 # CDN 和静态资源
 DOMAIN,servd-anthropic-website.b-cdn.net
@@ -19,6 +20,7 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN,browser-intake-us5-datadoghq.com
 DOMAIN-KEYWORD,datadog
+DOMAIN-KEYWORD,sentry
 DOMAIN-KEYWORD,sift
 
 # 客服 / 第三方 widget
